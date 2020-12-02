@@ -1,4 +1,4 @@
-# Getting-and-cleaning-Data-
+# Getting and cleaning Data
 
 In this repository you can find a answer of the project of the curse of getting and clining data of coursera. 
 
@@ -13,3 +13,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 Here are the data for the project:
 
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
+
+## 2. What do you need?
+
+*** Packages ***
