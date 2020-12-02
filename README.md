@@ -18,8 +18,8 @@ Here are the data for the project:
 
 ***Packages***
 
-* ´Dplyr'
-* ´plyr'
+* `dplyr`
+* `plyr`
 
 ***Data***
 
