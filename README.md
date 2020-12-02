@@ -16,4 +16,15 @@ Here are the data for the project:
 
 ## 2. What do you need?
 
-*** Packages ***
+***Packages***
+
+* ´Dplyr'
+* ´plyr'
+
+***Data***
+
+* You should download data in the link that you can meet in the last point.
+
+## 3. In this repository.
+
+In this repository, you find the final data, where it merge the data of the author; the list of the variables and the code that I use to merge the data.
